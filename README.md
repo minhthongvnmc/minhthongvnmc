@@ -4,7 +4,13 @@
 About me:
 ## Hello, I'm MinhthongVNMC Studio
 
-a MCPEDL and Minecraft Bedrock Addon Developer
+a MCPEDL and Minecraft Bedrock Maps Developer
 
-Socials:
-Soon..
+### 📱 Follow Us
+
+| Platform | Link |
+| :--- | :--- |
+| **YOUTUBE** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
+| **TIKTOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
+| **X** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minhthongvnmc) |
+| **FACEBOOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JC6pRTRDu/) |
